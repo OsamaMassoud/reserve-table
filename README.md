@@ -8,7 +8,7 @@ A modern and responsive restaurant table reservation application built with Reac
 
 Add your deployed application link here:
 
-https://your-demo-link.com
+https://osamamassoud.github.io/reserve-table/
 
 ---
 
@@ -154,7 +154,7 @@ src/
 
 Clone the repository:
 
-``` bash git clone https://github.com/your-username/reserve-table.git
+``` bash git clone https://github.com/OsamaMassoud/reserve-table.git
 
 
 Move into the project directory:
@@ -281,7 +281,7 @@ Osama Massoud
 
 Frontend Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/OsamaMassoud
 
 LinkedIn: https://www.linkedin.com/in/osama-massoud-100445b0
 

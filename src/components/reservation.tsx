@@ -16,7 +16,6 @@ export default function Reservations() {
     specialRequests: "",
   });
 
-  // هنا أيضًا قمنا بتحويل الأنواع لتُقرأ من React مباشرة لتفادي أي خطأ استيراد
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({
@@ -25,7 +24,6 @@ export default function Reservations() {
     }));
   };
 
-  // الدالة المصلحة بالكامل هنا
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault(); 
     console.log("Complete Reservation Data Submitted:", formData);
